@@ -1,3 +1,3 @@
 # lab5
 
-![](OClab5(1).png)
+![](Screenshot from 2018-05-21 14-26-42.png)
